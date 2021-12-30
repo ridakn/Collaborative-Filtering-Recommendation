@@ -11,11 +11,11 @@ In this project, we were supposed to implement and develop different algorithms 
 <ul>
   
 <li> User-based algorithms
-  <ol>
-  <li> User Based Collaborative Filtering: Cosine Similarity </li>
-  <li> User Based Collaborative Filtering: Pearson's Correlation </li>
-  <li> User Based Collaborative Filtering: Pearson's Correlation with Inverse User Frequency </li>
-  <li> User Based Collaborative Filtering: Pearson's Correlation with Case Modification </li>
+  <ol type = "1">
+    <li> User Based Collaborative Filtering: Cosine Similarity </li>
+    <li> User Based Collaborative Filtering: Pearson's Correlation </li>
+    <li> User Based Collaborative Filtering: Pearson's Correlation with Inverse User Frequency </li>
+    <li> User Based Collaborative Filtering: Pearson's Correlation with Case Modification </li>
   </ol>
 </li>
 <li> Item Based Collaborative Filtering </li>
